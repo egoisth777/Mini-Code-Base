@@ -1,0 +1,3 @@
+[submodule "AlgorithmInCpp"]
+	path = AlgorithmInCpp
+	url = git@github.com:egoisth777/AlgorithmInCpp.git
